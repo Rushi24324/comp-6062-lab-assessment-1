@@ -1,0 +1,21 @@
+.primaryHeading{
+    color:red;
+    margin-top: 55px;
+    margin-bottom: 55px;
+}
+
+.secondaryHeading{
+    color: #1c43ff;
+
+}
+
+img{
+    border-radius: 25px;
+}
+
+footer{
+    background-color:  #0028e8;
+    color: #eee;
+    padding: 25px;
+    margin-top: 35px;
+}
